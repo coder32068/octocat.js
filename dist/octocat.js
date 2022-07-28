@@ -1,4 +1,4 @@
-System.register([], function(_export, _context) {
+System.register("octocat.js", [], function(_export, _context) {
   'use strict'
 
   return {
